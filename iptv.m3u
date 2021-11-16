@@ -1,32 +1,41 @@
 #EXTM3U
-#EXTINF:-1 ,TVB翡翠台
+#EXTINF:-1 tvg-logo="http://img.tvb.com/homepage/tvb_logo_day_2017.gif" ,TVB翡翠台
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
-#EXTINF:-1,翡翠台（高清，香港线路）
+#EXTINF:-1 tvg-logo="http://img.tvb.com/homepage/tvb_logo_day_2017.gif" ,翡翠台（香港）
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="TVBFeiCuiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",TVB翡翠台
+#EXTINF:-1 tvg-id="TVBFeiCuiTai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://img.tvb.com/homepage/tvb_logo_day_2017.gif" group-title="",TVB翡翠台(大陸)
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
-#EXTINF:-1 ,TVB無綫財經·資訊台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/13/TVB_J2.jpg/300px-TVB_J2.jpg" ,TVB J2 HD
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/72/TVB_Finance_%26_Information_Channel.png/300px-TVB_Finance_%26_Information_Channel.png",TVB無綫財經·資訊台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 ,TVB無綫新聞台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/01/TVB_News_Channel_2017.png/280px-TVB_News_Channel_2017.png",TVB無綫新聞台
 https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1,翡翠明珠台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh-yue/thumb/7/77/TVB_Pearl_20130301.jpg/300px-TVB_Pearl_20130301.jpg",翡翠明珠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&amp;FvSeid=1&amp;Fsv_ctype=LIVES&amp;Fsv_otype=1&amp;Provider_id=&amp;Pcontent_id=.m3u8
-#EXTINF:-1,ViuTV（高清，香港线路）
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/200px-ViuTV_logo.svg.png",ViuTV（香港）
 https://cdn.hkdtmb.com/hls/99/index.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC Sports Bay Area
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ed/HK_open_tv_logo.jpg/220px-HK_open_tv_logo.jpg",香港開電視
+https://cdn.hkdtmb.com/hls/77/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/220px-RTHK_TV_31.svg.png",港台電視31
+https://cdn.hkdtmb.com/hls/31/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png",港台電視32
+https://cdn.hkdtmb.com/hls/32/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/150px-RTHK_TV_33.svg.png",港台電視33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="Sport",NBC Sports Bay Area
 http://appfactory.group:8080/9M2Bl5YikQ/8zly90qQUM/26938?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",NBC SPORTS BAY AREA PLUS
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/NBC_Sports_Bay_Area.png/220px-NBC_Sports_Bay_Area.png" group-title="Sport",NBC Sports Bay Area PLUS
 http://mains.services:2086/nick5404/9928627/102772?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Sport",ESPN
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/220px-ESPN_wordmark.svg.png" group-title="Sport",ESPN
 http://mlsh1.com:2086/Praxidike/uXezrYwX/5138?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",TNT
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/150px-TNT_%28TV_Channel%29.svg.png" group-title="Undefined",TNT
 http://pelicanhosting.xyz:80/mdsufwdb/3141315334/394?checkedby:iptvcat.com
 
-
-#EXTINF:-1 tvg-id="GuangZhouZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广州综合 (1080p)
-http://116.199.5.51:8114/00000000/index.m3u8?
-Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=81&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-#EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广州新闻 (1080p)
+#EXTINF:-1 tvg-id="GuangZhouZongHe.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/GZBN_General_Logo.png" group-title="",广州综合 (1080p)
+http://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://zh.wikipedia.org/wiki/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0#/media/File:Guangzhou_Television_Logo.png" group-title="",广州新闻 (1080p)
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=11&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 #EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",广东体育 (720p)
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
